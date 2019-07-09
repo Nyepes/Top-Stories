@@ -15,6 +15,7 @@
 		37F4CB3122D4E51E00A30027 /* Top_StoriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F4CB3022D4E51E00A30027 /* Top_StoriesTests.swift */; };
 		37F4CB3C22D4E51E00A30027 /* Top_StoriesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F4CB3B22D4E51E00A30027 /* Top_StoriesUITests.swift */; };
 		37F4CB4A22D4E87500A30027 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F4CB4922D4E87500A30027 /* SwiftyJSON.swift */; };
+		37F4CB4C22D4F53700A30027 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37F4CB4B22D4F53700A30027 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		37F4CB3B22D4E51E00A30027 /* Top_StoriesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Top_StoriesUITests.swift; sourceTree = "<group>"; };
 		37F4CB3D22D4E51E00A30027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37F4CB4922D4E87500A30027 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		37F4CB4B22D4F53700A30027 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				37F4CB1B22D4E51C00A30027 /* AppDelegate.swift */,
 				37F4CB1D22D4E51C00A30027 /* SourcesViewController.swift */,
 				37F4CB1F22D4E51C00A30027 /* Main.storyboard */,
+				37F4CB4B22D4F53700A30027 /* ArticlesViewController.swift */,
 				37F4CB2222D4E51E00A30027 /* Assets.xcassets */,
 				37F4CB2422D4E51E00A30027 /* LaunchScreen.storyboard */,
 				37F4CB2722D4E51E00A30027 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37F4CB4A22D4E87500A30027 /* SwiftyJSON.swift in Sources */,
+				37F4CB4C22D4F53700A30027 /* ArticlesViewController.swift in Sources */,
 				37F4CB1E22D4E51C00A30027 /* SourcesViewController.swift in Sources */,
 				37F4CB1C22D4E51C00A30027 /* AppDelegate.swift in Sources */,
 			);
